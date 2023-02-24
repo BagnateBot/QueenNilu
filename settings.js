@@ -22,9 +22,9 @@ global.READ_MASSAGE = 'false'
 //👇 enable desable Girls Voice Reply
 global.VOICE_REPLY =  'true'
 // You Bots Owner Number 
-global.owner = ['1141421436'] 
+global.owner = ['541141421436'] 
 //👇 Your Caption ( Image Video )
-global.cap = '© 𝕭𝖆𝖌𝖓𝖆𝖙𝖊 ²⁰²³'
+global.cap = '© 𝕭𝖆𝖌𝖓𝖆𝖙𝖊'
 //👇 Do you want show time on your bio use "on" want desable use "off"
 global.AUTO_BIO =  'off'
 //👇 Inbox massage block PM block
@@ -34,7 +34,7 @@ global.AUTO_REACT =  'true'
 //👇 Bad word Auto delete ( you must add bad words )
 global.ANTI_BADWORD =  'true'
 //👇 Your Bot Name
-global.botnma =  'ǫᴜᴇᴇɴ ɴɪʟᴜ' 
+global.botnma =  'BGT BOT' 
 //👇 Your name
 global.ownernma =  'JANIYA' 
 //👇 Sticker package name
