@@ -22,9 +22,9 @@ global.READ_MASSAGE = 'false'
 //👇 enable desable Girls Voice Reply
 global.VOICE_REPLY =  'true'
 // You Bots Owner Number 
-global.owner = ['94767438882'] 
+global.owner = ['1141421436'] 
 //👇 Your Caption ( Image Video )
-global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝚀𝚄𝙴𝙴𝙽 𝙽𝙸𝙻𝚄 ²⁰²³'
+global.cap = '© 𝕭𝖆𝖌𝖓𝖆𝖙𝖊 ²⁰²³'
 //👇 Do you want show time on your bio use "on" want desable use "off"
 global.AUTO_BIO =  'off'
 //👇 Inbox massage block PM block
@@ -38,7 +38,7 @@ global.botnma =  'ǫᴜᴇᴇɴ ɴɪʟᴜ'
 //👇 Your name
 global.ownernma =  'JANIYA' 
 //👇 Sticker package name
-global.packname =  '𝗤𝗨𝗘𝗘𝗡 𝐍𝐈𝐋𝐔' 
+global.packname =  'BGT BOT' 
 //👇 Sticker Author Name
 global.author =  '_JANIYA_' 
 //👇 Kick And Auto Delete Group link Senders
@@ -57,9 +57,9 @@ global.BUTTON1_URL = 'https://github.com/janithsadanuwan/'
 //👇 Button 2 url
 global.BUTTON2_URL = 'https://youtube.com/c/Janithsadanuwan'
 //👇 Your Add Massage 
-global.ADD_MSG = '*✅ Success add Group*' 
+global.ADD_MSG = '*Welcome <3*' 
 //👇 Your Kick Massage 
-global.KICK_MSG = '*✅ Success Remove from Group*' 
+global.KICK_MSG = '*un kitten menos*' 
 //👇 Song Download Massage 
 global.SONG_DOWN = '```⬇️ Downloading Your Song...```' 
 //👇 Song Uplode massage 
@@ -114,14 +114,14 @@ global.sp = '🔵'
 
 
 global.mess = {
-    success: '✅ Done!',
+    success: 'listop!',
     admin: '*Only admins can use this command !*',
     botAdmin: '*Please admin the bot first !*',
     owner: '*Sorry, this command is only for the owner !*',
     group: '*This command can only be used in groups !*',
     private: '*This command can only be used in Inbox !*',
     bot: '*This command can only be used by bot number !*',
-    wait: '*♲ Please Wait ...*',
+    wait: '*♲ Esperate ...*',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
     BLOCK_CMD_MSG : '*⚠️ This Command is Block By Owner*',
     BLOCK : '',
