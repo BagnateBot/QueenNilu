@@ -36,7 +36,7 @@ global.ANTI_BADWORD =  'true'
 //👇 Your Bot Name
 global.botnma =  'BGT BOT' 
 //👇 Your name
-global.ownernma =  'JANIYA' 
+global.ownernma =  'Toumatito' 
 //👇 Sticker package name
 global.packname =  'BGT BOT' 
 //👇 Sticker Author Name
