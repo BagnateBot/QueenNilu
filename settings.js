@@ -34,13 +34,13 @@ global.AUTO_REACT =  'true'
 //👇 Bad word Auto delete ( you must add bad words )
 global.ANTI_BADWORD =  'true'
 //👇 Your Bot Name
-global.botnma =  'BGT BOT' 
+global.botnma =  'BGT Cherry' 
 //👇 Your name
 global.ownernma =  'Toumatito' 
 //👇 Sticker package name
 global.packname =  'BGT BOT' 
 //👇 Sticker Author Name
-global.author =  '_JANIYA_' 
+global.author =  'Bagnate' 
 //👇 Kick And Auto Delete Group link Senders
 global.antilink =  'false'
 //👇 Inbox Block Massage 
